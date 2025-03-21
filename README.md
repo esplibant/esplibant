@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @esplibant (esp'libant)
 - 👀 I’m interested in making games
-- 🌱 I’m currently learning phyton
+- 🌱 I’m currently learning python
 - 📫 to reach me "ikemaltat@outlook.com"
 - 😄 Pronouns: He/Him
